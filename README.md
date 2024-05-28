@@ -3,7 +3,7 @@
 
 ###  این کد برای دیدن ساعت است
 
-<h3><a href="link">نسخه نمایشی</a></h3>
+<h3><a href="https://mr0miner.github.io/Show-Time/">نسخه نمایشی</a></h3>
 
 ## عکس این کد 
 
@@ -20,7 +20,7 @@
 
 ### This Code for show time
 
-<h3><a href="link">Demo</a></h3>
+<h3><a href="https://mr0miner.github.io/Show-Time/">Demo</a></h3>
 
 ## Image of this code 
 
